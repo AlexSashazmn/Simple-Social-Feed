@@ -177,7 +177,7 @@ UPDATE "user" SET is_superuser = true WHERE email = 'you@example.com';
 
 ## Deploy with Render and Neon
 
-The repository includes a Render Blueprint in [`render.yaml`](./render.yaml) that creates separate web services for the FastAPI API and Streamlit frontend.
+The repository includes a Render Blueprint in `render.yaml` that creates separate web services for the FastAPI API and Streamlit frontend.
 
 1. Create a Neon project and copy its PostgreSQL connection string. Use the pooled connection string if needed for IPv4 compatibility; keep its `sslmode=require` query parameter.
 2. In Render, choose **New > Blueprint**, connect this repository, and apply the Blueprint. Render will ask for `DATABASE_URL` and the ImageKit values; enter the Neon connection string and ImageKit credentials. Render generates `SECRET` automatically.
