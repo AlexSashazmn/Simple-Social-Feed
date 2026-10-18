@@ -10,7 +10,7 @@ The feed is shared across all users, not isolated by account: posts, photos, vid
 
 ## Product walkthrough
 
-[Watch the 1-minute demo]([./photo_materials/demo_simple_social_feed.mp4](https://github.com/AlexSashazmn/Simple-Social-Feed/releases/download/demo-simple-feed-api/demo_simple_social_feed.mp4)) to see the app in action. It walks through the main experience:
+[Watch the demo video](https://github.com/AlexSashazmn/Simple-Social-Feed/releases/download/demo-simple-feed-api/demo_simple_social_feed.mp4) to see the app in action. It walks through the main experience:
 
 - Request a password-reset email, set a new password, then log in and out.
 - See that post deletion is restricted to the signed-in author.
