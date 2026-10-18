@@ -25,9 +25,9 @@ The screenshots below show both themes and the account sidebar.
 ## Screenshots
 <table>
   <tr>
-    <td align="center"><b>Light theme</b><br><img src="photo_materials/light_theme.png" alt="Feed, light theme" width="300"></td>
-    <td align="center"><b>Dark theme</b><br><img src="photo_materials/dark_theme.png" alt="Feed, dark theme" width="300"></td>
-    <td align="center"><b>Sidebar</b><br><img src="photo_materials/register.png" alt="Login and account sidebar" width="300"></td>
+    <td align="center"><b>Light theme</b><br><img src="visuals/light_theme.png" alt="Feed, light theme" width="300"></td>
+    <td align="center"><b>Dark theme</b><br><img src="visuals/dark_theme.png" alt="Feed, dark theme" width="300"></td>
+    <td align="center"><b>Sidebar</b><br><img src="visuals/register.png" alt="Login and account sidebar" width="300"></td>
   </tr>
 </table>
 
